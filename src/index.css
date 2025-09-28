@@ -1,1 +1,16 @@
 @import "tailwindcss";
+
+.titulo{
+    font-family: "Lobster", "Josefin Sans", Helvetica, Arial, sans-serif;
+}
+.subTitulo{
+      font-size: 2em;
+  margin: 52px 0 40px;
+  text-transform: capitalize;
+  color: #051c33;
+  text-align: center;
+    font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
+}
+.filtros{
+    font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
+}
